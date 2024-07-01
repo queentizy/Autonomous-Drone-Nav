@@ -67,3 +67,4 @@ apply_k8s_manifests
 # Hash 1389
 # Hash 3280
 # Hash 5506
+# Hash 6970
